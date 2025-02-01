@@ -14,6 +14,12 @@ public class MyApplication {
 
 /*
 
+01 model/User
+02 dao/UserRepository
+03 service/UserService
+04 service/impl/UserServiceImpl
+05 controller/UserController
+06 MyApplication
 
 Linux:
 curl -X POST http://localhost:8080/v1/users \
